@@ -1,0 +1,11 @@
+tileSize,10,10,sectorSize,5,5,tileToSector,2,2,posMax,100,100,\n
+x,x,x,x,x,x,x,x,x,x,\n,,
+x,x,x, , , , , , ,x,\n,,
+x,x,x, , , , , , ,x,\n,,
+x, , , , , , , , ,x,\n,,
+x, , , , , , , , ,x,\n,,
+x, , , , , , , , ,x,\n,,
+x, , , , , , , , ,x,\n,,
+x,x, , , , , , ,x,x,\n,,
+x,x,x, , , , , ,x,x,\n,,
+x,x,x,x,x,x,x,x,x,x,\n,,
