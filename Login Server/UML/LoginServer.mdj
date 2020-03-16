@@ -15002,7 +15002,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw33CcsdHCMAY="
 							},
-							"name": "Create character",
+							"name": "Login server sequence",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -15023,9 +15023,9 @@
 											"font": "Arial;13;0",
 											"left": 75.97900390625,
 											"top": 10,
-											"width": 97.82080078125,
+											"width": 132.52978515625,
 											"height": 13,
-											"text": "Create character"
+											"text": "Login server sequence"
 										},
 										{
 											"_type": "LabelView",
